@@ -1,0 +1,84 @@
+/***********************************************************************************************
+SLIDE-OVER-NAV
+***********************************************************************************************/
+
+
+.navigation{
+	position: fixed;
+	top: 0;
+	left: -40%;
+	height: 100%;
+	width: 30%;
+	background: #0F4277;
+	z-index: 3000;
+	color: #fff;
+
+}
+
+
+.mobile .navigation{
+	background: #144c87;
+	z-index: 3000;
+	display: none;
+
+}
+
+
+.navigation .collapse .nav li{
+	text-align: left;
+}
+
+.navigation .collapse .nav li:hover a{
+	background: none;
+	color: #dedede;
+
+}
+
+.navigation .collapse .nav li a{
+	text-decoration: none;
+	font-size: 20px;
+	letter-spacing: 2.5px;
+	text-transform: uppercase;
+	padding: 20px;
+	color: #fff;
+	font-weight: 300;
+	border-bottom: 1.5px solid #386696;
+
+
+
+}
+
+.hide-toggle{
+	position: absolute;
+	right: 0;
+	top: 0;
+	padding: 20px;
+	background: #0F4277 !important;
+	text-shadow: none;
+	padding: 20px;
+	border: none;
+	color: black;
+	height: 100%;
+	width: 20%;
+}
+
+.hide-toggle:hover{
+	background: #0F4277 !important;
+}
+
+.navbar-collapse{
+	padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.x{
+	position: absolute;
+	top: 15px;
+	right: 20px;
+	color: #fff;
+	width: 20px;
+	height: 20px;
+
+}
+
+

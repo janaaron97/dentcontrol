@@ -1,0 +1,33 @@
+.benefits{
+	text-align: center;
+	margin-top: 50px;
+	background: #F5F5F5;
+	padding: 10px 24px;
+	line-height: 0.7em;
+}
+
+.benefits li{
+	list-style: none;
+	color: #595959;
+	font-size: 12px !important;
+	margin: 1em 1em;
+	line-height: 1.3em;
+	font-weight: 200;
+}
+
+
+.benefits h2{
+	margin-top: 50px; 
+	font-weight: 200;
+	letter-spacing: 0.2em;
+	color: #144c87;
+	font-size: 20px;
+}
+
+.paragraphs .col-md-12 .col-md-3 h2{
+	font-weight: 100;
+}
+
+.paragraphs .col-md-3{
+	float: right;
+}

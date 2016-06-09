@@ -1,0 +1,63 @@
+.car-desktop{
+	background: url('../../images/links-photo.jpg') !important;
+	background-size: cover !important;
+	background-position: center !important;
+	height: 50%;
+	position: relative;
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+
+.car-desktop .col-md-4{
+	height: 100%;
+	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+}
+
+.car-desktop .col-md-4:hover{
+	background: none;
+}
+
+.car-desktop .col-md-4 .container h1{
+	color: #fff;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.bordered{
+	border-left: 10px solid #fff;
+	border-right: 10px solid #fff;
+}
+
+.link-text {
+    line-height: 0.8em;
+}
+
+
+/* MOBILE */
+
+.car-mobile{
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../../images/links-photo.jpg') !important;
+	background-size: cover !important;
+	background-position: center !important;
+	height: 40%;
+	position: relative;
+	display: none !important;
+}
+
+.car-mobile a h1{
+	color: #fff;
+	font-size: 30px;
+	margin: 0;
+	line-height: 2em;
+
+}
+
+.car-mobile a:hover{
+	text-decoration: none;
+
+}
+
+.hr-small{
+	border: 1px solid #fff;
+	width: 6%;
+}

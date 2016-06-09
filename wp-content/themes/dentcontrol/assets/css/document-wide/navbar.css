@@ -1,0 +1,85 @@
+/* DESKTOP NAV */
+
+.navbar-default{
+   height: 100px;
+}
+
+.navbar-toggle {
+    float:left;
+}
+
+p.navbar-brand.left.toggle-button {
+    cursor: pointer;
+}
+
+
+.navbar {
+    text-align: center;
+
+}
+.desktop .navbar  a, p{
+    display: inline-block;
+}
+
+.navbar img{
+    width: 200px;
+}
+
+#menu-link{
+  font-size: 16px;
+  color: #144c87 !important;
+}
+
+.navbar-default button{
+  border: none;
+}
+
+.toggle-button:hover{
+  background: none !important;
+}
+
+
+#call-today{
+  font-size: 16px;
+  color: #144c87 !important;
+}
+
+.navbar .fa{
+  color: #144c87;
+  margin: 0 10px;
+}
+
+
+.navbar-collapse.collapse {
+    display: block!important;
+}
+
+.fa-home{
+  margin-right: 10px;
+}
+
+#contact-nav{
+    text-align: right;
+}
+
+/* MOBILE */
+
+.mobile{
+  display: none;
+}
+
+.mobile {
+   margin: 0;
+   height: auto;
+   padding: 10px;
+}
+
+.mobile button.navbar-toggle {
+    float:right;
+}
+
+.mobile img{
+    width: 150px;
+    float: left;
+}
+

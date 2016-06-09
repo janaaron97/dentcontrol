@@ -1,0 +1,81 @@
+/***********************************************************************************************
+FOOTER
+***********************************************************************************************/
+
+#footer{
+	background: #144c87;
+	color: #fff;
+	height: 400px;
+}
+
+.footer .col-md-4 h2{
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+   	margin-top: 0;
+}
+
+.footer .col-md-4{
+	margin-top: 60px;
+}
+
+
+#white-border{
+	border-left: 1px solid #fff;
+	border-right: 1px solid #fff;
+	height: 50%;
+
+}
+
+.blue-bottom-of-footer{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	margin-top: 15px;
+	height: auto;
+	width: 100%;
+	padding: 10px;
+	background: #0a3766;
+}
+
+.blue-bottom-of-footer p{
+	letter-spacing: 0.1em;
+	margin-top: 10px;
+	font-size: 12px;
+}
+
+
+.footer .col-md-4 .container ul li{
+	list-style: none;
+	text-align: left;
+}
+
+.footer .col-md-3 {
+	text-align: right;
+
+}
+
+
+.width{
+	width: 50%;
+	text-align: center;
+}
+
+
+.fa-twitter, .fa-facebook{
+	padding: 7px;
+}
+
+.fa{
+	font-size: 25px;
+}
+
+#middle-footer-text{
+	line-height: 2em;
+	margin: 10px;
+}
+
+/* FOOTER NAV */
+
+#footer .nav{
+	text-align: center;
+} 

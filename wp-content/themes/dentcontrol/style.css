@@ -1,0 +1,70 @@
+/*
+
+Theme Name: DentControl
+Author: Deep Space Development Team
+Version: 1
+
+*/
+
+/* home styles */
+@import url("assets/css/home/brand-icons.css");
+@import url("assets/css/home/metaslider.css");
+@import url("assets/css/home/form.css");
+@import url("assets/css/home/links-section.css");
+@import url("assets/css/home/dark-gray-testimonials.css");
+@import url("assets/css/document-wide/document-wide.css");
+@import url("assets/css/home/light-gray-read-more.css");
+
+/* document-wide styles */
+@import url("assets/css/document-wide/footer-at-bottom.css");
+@import url("assets/css/document-wide/footer-design.css");
+@import url("assets/css/home/main-image.css");
+@import url("assets/css/document-wide/navbar.css");
+@import url("assets/css/document-wide/breakpoints.css");
+@import url("assets/css/document-wide/main-image.css");
+@import url("assets/css/document-wide/slide-over-nav.css");
+
+
+/* the-process styles */
+@import url("assets/css/the-process/the-process-main-image.css");
+@import url("assets/css/the-process/repair-3-steps.css");
+@import url("assets/css/the-process/the-process-paragraphs.css");
+
+/* testimonials styles */
+@import url("assets/css/testimonials/main-image.css");
+@import url("assets/css/testimonials/testimonial-blocks.css");
+@import url("assets/css/testimonials/links-section.css");
+
+/* contact styles */
+@import url("assets/css/contact/main-image.css");
+@import url("assets/css/contact/main-section.css");
+@import url("assets/css/contact/form.css");
+
+/* faq styles */
+@import url("assets/css/faq/main-image.css");
+@import url("assets/css/faq/main-section.css");
+
+/* meet-the-team styles */
+@import url("assets/css/meet-the-team/main-image.css");
+@import url("assets/css/meet-the-team/main-section.css");
+
+
+/* media-queries */
+@import url("assets/css/media-queries/home-light-gray-read-more.css");
+@import url("assets/css/media-queries/the-process-paragraphs.css");
+@import url("assets/css/media-queries/document-wide.css");
+@import url("assets/css/media-queries/the-process-who-we-are.css");
+@import url("assets/css/media-queries/navbar.css");
+@import url("assets/css/media-queries/the-process-repair-3-steps.css");
+@import url("assets/css/media-queries/links-section.css");
+@import url("assets/css/media-queries/home-form.css");
+@import url("assets/css/media-queries/home-main-image.css");
+@import url("assets/css/media-queries/footer-design.css");
+@import url("assets/css/media-queries/home-brand-icons.css");
+@import url("assets/css/media-queries/testimonials-testimonial-blocks.css");
+@import url("assets/css/media-queries/testimonials-link-section.css");
+@import url("assets/css/media-queries/interior-page-main-image.css");
+
+
+
+

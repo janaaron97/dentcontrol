@@ -1,0 +1,40 @@
+/***********************************************************************************************
+MAIN-IMAGE
+***********************************************************************************************/
+
+.main-image .vertical-center{
+   min-height: 80%;
+}
+
+.home{
+   background: url('../../images/car-photo.png') cover center;
+}
+
+
+.home p{
+   text-align: center;
+   color: #fff;
+   font-weight: 200;
+   font-size: 14px;
+   margin: 20px 100px;
+}
+
+.black-box{
+   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+   width: 50%;
+}
+
+#little-car{
+   text-align: center;
+   width: 30px;
+   height: 25px;
+   margin-top: 30px;
+}
+
+.metaslider .caption-wrap #smaller-img-text{
+   line-height: 1em;
+   letter-spacing: 0.35em;
+   font-size: 47px;
+
+}
+

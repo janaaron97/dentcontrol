@@ -1,0 +1,32 @@
+.photo-h1{
+   text-align: center;
+   color: #fff !important;
+   font-weight: 600;
+   letter-spacing: 0.05em;
+   font-size: 70px !important;
+
+}
+
+.interior-page-black-box{
+   padding: 30px;
+   width: 50%;
+   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+}
+
+.photo-p{
+	color: #fff;
+	font-weight: 300;
+	letter-spacing: 0.05em;
+	font-size: 23px;
+}
+
+.interior-page-vertical-center{
+   align-items: center;
+   min-height: 40%;  /* Fallback for browsers do NOT support vh unit */
+   display: flex;
+}
+
+.main-image{
+   background-size: cover !important;
+   background-position: center !important;
+}

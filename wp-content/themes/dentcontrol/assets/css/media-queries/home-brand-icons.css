@@ -1,0 +1,25 @@
+@media screen and (max-width: 1000px) {
+
+
+	#proud-partners{
+	   font-size: 15px;
+	}
+
+	.desktop-brands{
+		display: none;
+	}
+
+	.mobile-brands{
+		display: block;
+	}
+
+	.col-md-6{
+		text-align: center;
+	}
+
+	.col-md-6 img{
+		margin: 40px;
+	}
+
+
+}

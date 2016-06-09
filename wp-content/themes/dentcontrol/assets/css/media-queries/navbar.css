@@ -1,0 +1,34 @@
+/***********************************************************************************************
+NAVBAR
+***********************************************************************************************/
+
+@media screen and (max-width: 1000px) {
+	.desktop{
+		display: none;
+	}
+
+	.mobile{
+		display: block;
+	}
+
+	.navigation{
+		left: -110%;
+		height: 100%;
+		width: 100%;
+	}
+
+
+	#body{
+		margin-top: 70px;
+	}
+
+
+    .navigation .collapse .nav li a {
+        width: 70%;
+        margin-left: 10px;
+    }
+
+
+}
+
+

@@ -1,0 +1,15 @@
+@media screen and (max-width: 1000px) {
+	.jumbotron.car-desktop {
+	    display: none;
+	}
+
+	.car-mobile{
+		display: flex !important;
+	}
+
+	#mobile .vertical-center{
+		min-height: 60%;
+	}
+
+}
+

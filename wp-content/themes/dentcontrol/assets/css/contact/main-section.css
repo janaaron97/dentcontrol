@@ -1,0 +1,19 @@
+
+.c .main-section{
+	padding: 30px;
+}
+
+.main-section .fa{
+	padding: 10px;
+	color: #144c87;
+
+
+}
+
+.main-section h2{
+	margin: 30px 0; 
+}
+
+p.contact-header{
+	font-weight: 500;
+}

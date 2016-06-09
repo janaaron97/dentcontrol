@@ -1,0 +1,62 @@
+/***********************************************************************************************
+FOOTER
+***********************************************************************************************/
+
+@media screen and (max-width: 1000px) {
+
+	#footer{
+		height: 960px;
+	}
+
+	#body {
+	   margin-top: 70px;
+	   padding-bottom: 940px;   /* Height of the footer + some room */
+
+	}
+
+	.footer .col-md-4 h2{
+	   	margin-top: 20px;
+	}
+
+	.footer .col-md-4{
+		margin-top: 20px !important;
+		margin-bottom: 60px;
+
+	}
+
+	#white-border{
+		border-left: none;
+		border-right: none;
+		height: inherit;
+
+	}
+
+	.width, .col-md-4{
+		width: 100%;
+		text-align: center;
+	}
+
+	.fa.fa-facebook, .fa.fa-twitter {
+	    width: 10% !important;
+	}
+
+
+	#footer-title{
+		text-align: center;
+		margin-top: 60px;
+	}
+
+	.container{
+		width: 100%;
+	}
+
+	#footer .fa{
+		text-align: center;
+		width: 100%;
+		padding: 10px;
+		font-size: 25px;
+	}
+
+
+
+}

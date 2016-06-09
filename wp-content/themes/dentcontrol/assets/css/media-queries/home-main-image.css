@@ -1,0 +1,61 @@
+/***********************************************************************************************
+MAIN-IMAGE
+***********************************************************************************************/
+
+@media screen and (max-width: 1100px) {
+
+	.caption .vertical-center .container p{
+		display: none;
+	}
+
+   .metaslider .caption{
+      padding: 0 !important;
+   }
+
+   .big-img-text{
+      margin-top: 10%;
+
+   }
+
+   .home p{
+      font-size: 14px;
+      margin: 20px 100px;
+   }
+
+   .black-box{
+      padding: 40px;
+      width: 100% !important;
+      height: 100%;
+   }
+
+   .tp .black-box{
+      height: 50%;
+      width: 100% !important;
+   }
+
+   #little-car{
+		display: none;
+   }
+
+   .metaslider .caption-wrap {
+      top: 0% !important;
+      height: 100%;
+   }
+
+
+}
+
+@media screen and (max-width: 700px) {
+	.metaslider .caption-wrap #smaller-img-text{
+	    font-size: 36px;
+
+	}
+
+	.big-img-text{
+	    font-size: 50px !important;
+	    margin-top: 4%;
+
+   	}
+
+}
+

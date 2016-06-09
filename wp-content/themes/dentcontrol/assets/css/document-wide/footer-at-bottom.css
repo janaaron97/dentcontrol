@@ -1,0 +1,31 @@
+/***********************************************************************************************
+CODE TO KEEP FOOTER AT THE BOTTOM OF THE PAGE
+***********************************************************************************************/
+
+html,
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+   background: #fff;
+
+}
+#container {
+   min-height:100%;
+   position:relative;
+}
+#header {
+
+}
+#body {
+   margin-top: 100px;
+   padding-bottom: 390px;   /* Height of the footer */
+   margin-left: 0;
+}
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+
+}
+

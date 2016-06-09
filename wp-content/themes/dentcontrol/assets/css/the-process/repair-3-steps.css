@@ -1,0 +1,43 @@
+.number{
+   font-weight: 600 !important;
+   font-size: 80px !important;
+   color: #144c87;
+}
+
+.tp .col-md-4{
+   background: #e7edf3;
+   padding: 20px;
+   width: 30%;
+   margin: 1.6%;
+   height: 400px;
+}
+
+.tp-number-box-text{
+   font-size: 16px !important;
+   margin: 25px;
+}
+
+
+.tp-text{
+   font-size: 15px !important;
+   line-height:2.5em;
+   color: #595959;
+   margin-top: 40px;
+   margin-bottom: 2em;
+}
+
+
+
+.tp .long-text-logo-background{
+   margin-top: 50px;
+
+}
+
+.tp-header{
+	margin-top: 50px; 
+	font-weight: 600;
+	letter-spacing: 0.2em;
+	color: #144c87;
+}
+
+

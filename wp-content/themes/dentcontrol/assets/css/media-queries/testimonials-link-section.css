@@ -1,0 +1,13 @@
+@media screen and (max-width: 1000px) {
+
+	.t .jumbotron.car-mobile {
+	    margin: 40px 0;
+	    border-radius: 0;
+	}
+
+	.t div.jumbotron.vertical-center.car-mobile{
+		height: 40% !important;
+		min-height: 40% !important;
+	}
+
+}

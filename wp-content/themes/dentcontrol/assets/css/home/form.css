@@ -1,0 +1,55 @@
+.wpcf7-form p{
+	display: block !important;
+	text-align: left;
+	width: 100%;
+}
+
+.form-margin{
+	width: 50%;
+	margin-top: 40px;
+}
+
+#quote{
+	color: #144c87;
+	text-transform: uppercase;
+	font-size: 35px;
+	letter-spacing: .15em;
+	font-weight: 600;
+}
+
+input.wpcf7-form-control{
+	width: 100%;
+	border-radius: 4px;
+	border: 2px solid #e9e9e9;
+	padding: 6px;
+
+}
+
+input[type='submit'].wpcf7-form-control{
+	width: 20%;
+	margin-top: 40px;
+	background: #144c87;
+	color: #fff;
+	border: none;
+	padding: 10px;
+	border-radius: 0;
+	margin-bottom: 40px;
+
+}
+
+#form-tagline{
+	color: #144c87;
+	font-weight: 100;
+	font-size: 16px;
+	letter-spacing: .05em;
+	margin-bottom: 40px;
+}
+
+
+/* message that pops up when an email is successfully sent */
+div.wpcf7-mail-sent-ok {
+    border: 2px solid #144c87;
+    color: #144c87;
+    text-align: center;
+    padding: 10px;
+}

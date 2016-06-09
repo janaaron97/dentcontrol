@@ -1,0 +1,23 @@
+@media screen and (max-width: 1100px) {
+
+   .photo-h1{
+      font-size: 30px !important;
+
+   }
+
+   .interior-page-black-box{
+      height: 100% !important;
+   }
+
+   .photo-p{
+
+   	font-size: 20px;
+   }
+
+   .interior-page-vertical-center{
+      height: 30% !important;
+      min-height: 30% !important;
+   }
+
+
+}

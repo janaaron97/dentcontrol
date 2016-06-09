@@ -1,0 +1,39 @@
+/***********************************************************************************************
+BRANDS ICONS
+***********************************************************************************************/
+
+
+#proud-partners{
+   font-size: 18px;
+   letter-spacing: 0.3em;
+   color: #144c87;
+   margin: 2px 0px 50px 0px;
+}
+
+img.triple-a{
+   	width: 100px !important;
+}
+
+img.usaa{
+   	width: 100px;
+}
+
+img.farmers{
+	width: 100px;
+}
+
+img.allstate{
+    width: 130px;
+}
+
+img.nationwide{
+    width: 150px;
+}
+
+.state-farm{
+	width: 160px !important;
+}
+
+.mobile-brands{
+  display: none;
+}

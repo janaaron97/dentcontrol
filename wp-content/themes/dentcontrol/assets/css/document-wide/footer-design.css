@@ -76,6 +76,11 @@ FOOTER
 
 /* FOOTER NAV */
 
-#footer .nav{
-	text-align: center;
+.footer .nav li a{
+	padding: 7;
+	text-shadow: none;
+}
+
+.footer .nav li:hover a{
+	background: none !important;
 } 

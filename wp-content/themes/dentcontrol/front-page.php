@@ -7,7 +7,7 @@
 
 <!--This is the carousel on the home page -->
 <?php 
-    echo do_shortcode("[metaslider id=4]"); 
+    echo do_shortcode("[metaslider id=5]"); 
 ?>
 
 <!-- These are the brand icons on the home page dent control carries -->

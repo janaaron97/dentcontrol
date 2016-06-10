@@ -6,9 +6,14 @@
 	.car-mobile{
 		display: flex !important;
 	}
+	
+	.car-mobile a h1{
+		font-size: 20px !important;
+	}
 
 	#mobile .vertical-center{
-		min-height: 60%;
+		min-height: 40%;
+		margin: 40px 0 50px 0;
 	}
 
 }

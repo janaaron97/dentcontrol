@@ -41,6 +41,7 @@ MAIN-IMAGE
       top: 0% !important;
       height: 100%;
    }
+   
 
 
 }
@@ -55,6 +56,14 @@ MAIN-IMAGE
 	    font-size: 50px !important;
 	    margin-top: 4%;
 
+   	}
+   	
+   	img.slider-5{
+   	   height: 250px !important;
+   	}
+   	
+   	.home .photo-h1 {
+   	   margin: 50px 0 0 0;
    	}
 
 }

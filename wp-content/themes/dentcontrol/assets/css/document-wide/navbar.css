@@ -12,6 +12,9 @@ p.navbar-brand.left.toggle-button {
     cursor: pointer;
 }
 
+.navbar-brand{
+    padding: 7px 15px;
+}
 
 .navbar {
     text-align: center;
@@ -28,6 +31,7 @@ p.navbar-brand.left.toggle-button {
 #menu-link{
   font-size: 16px;
   color: #144c87 !important;
+  cursor: pointer;
 }
 
 .navbar-default button{
@@ -47,11 +51,20 @@ p.navbar-brand.left.toggle-button {
 .navbar .fa{
   color: #144c87;
   margin: 0 10px;
+  transition: color 0.2s ease-in 0s;
+}
+
+.navbar .fa:hover{
+    color: #0a3766;
 }
 
 
 .navbar-collapse.collapse {
     display: block!important;
+}
+
+.navbar-toggle .icon-bar{
+    background-color: #144c87 !important;
 }
 
 .fa-home{
@@ -83,3 +96,7 @@ p.navbar-brand.left.toggle-button {
     float: left;
 }
 
+.navbar-header a{
+	outline: none;
+	text-decoration: none;
+}

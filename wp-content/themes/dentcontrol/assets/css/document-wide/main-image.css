@@ -3,7 +3,8 @@
    color: #fff !important;
    font-weight: 600;
    letter-spacing: 0.05em;
-   font-size: 70px !important;
+   font-size: 60px !important;
+   text-transform: uppercase;
 
 }
 
@@ -22,7 +23,7 @@
 
 .interior-page-vertical-center{
    align-items: center;
-   min-height: 40%;  /* Fallback for browsers do NOT support vh unit */
+   min-height: 60%;  /* Fallback for browsers do NOT support vh unit */
    display: flex;
 }
 

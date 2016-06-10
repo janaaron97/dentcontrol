@@ -4,5 +4,16 @@
 		padding: 40px;
 	}
 
+	.circle-background-text{
+		line-height: 1.5em;
+		padding: 20px;
+		margin-bottom: 0;
+
+	
+	}
+	
+	.long-text-logo-background{
+		padding: 20px;
+	}
 
 }

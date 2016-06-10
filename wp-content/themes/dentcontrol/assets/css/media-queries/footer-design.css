@@ -5,12 +5,12 @@ FOOTER
 @media screen and (max-width: 1000px) {
 
 	#footer{
-		height: 960px;
+		height: 1200px;
 	}
 
 	#body {
 	   margin-top: 70px;
-	   padding-bottom: 940px;   /* Height of the footer + some room */
+	   padding-bottom: 1210px;   /* Height of the footer + some room */
 
 	}
 
@@ -24,7 +24,7 @@ FOOTER
 
 	}
 
-	#white-border{
+	#blue-border{
 		border-left: none;
 		border-right: none;
 		height: inherit;
@@ -38,6 +38,7 @@ FOOTER
 
 	.fa.fa-facebook, .fa.fa-twitter {
 	    width: 10% !important;
+
 	}
 
 
@@ -50,13 +51,37 @@ FOOTER
 		width: 100%;
 	}
 
-	#footer .fa{
-		text-align: center;
-		width: 100%;
+	.footer .fa{
+		text-align: center !important;
+		width: 100% !important;
 		padding: 10px;
 		font-size: 25px;
 	}
+	
+	.footer .col-md-3{
+		width: 100%;
+	}
 
+	#connect-with-us-header{
+		margin-left: 0;
+	}
+	
+	.footer .col-md-9{
+		text-align: center;
+	}
+	
+	#middle-footer-text{
+		margin: 20px;
+	}
+	
+	.footer .col-md-12{
+		width: 100%;
+		margin-left: 0;
+	}
+	
+	#site-map{
+		padding-top: 20px;
+	}
 
 
 }

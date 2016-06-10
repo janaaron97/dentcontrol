@@ -17,6 +17,8 @@ DOCUMENT-WIDE
    background: #fff;
 }
 
+
+
 .padding{
    padding: 30px;
 }
@@ -45,4 +47,13 @@ label{
 
 a, a:hover{
    color: inherit;
+}
+
+h2{
+   font-size: 25px !important;
+}
+
+p, h3{
+   font-size: 18px !important;
+   line-height: 33px !important;
 }

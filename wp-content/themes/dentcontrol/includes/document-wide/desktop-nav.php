@@ -31,7 +31,9 @@
 
 			<div class = "col-md-4 vertical-center" id = "contact-nav">
 				<div class = "container align-right">
-					<p id = "call-today">CALL TODAY</p>
+					<a href = "tel:1111111111">
+						<p id = "call-today">CALL TODAY</p>
+					</a>
 
 					<a href = "tel:1111111111">
 						<i class="fa fa-phone"></i>

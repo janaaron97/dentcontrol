@@ -6,9 +6,11 @@
 
 
 <!--This is the carousel on the home page -->
-<?php 
-    echo do_shortcode("[metaslider id=5]"); 
-?>
+<div class = "home">
+	<?php 
+	    echo do_shortcode("[metaslider id=5]"); 
+	?>
+</div>
 
 <!-- These are the brand icons on the home page dent control carries -->
 <div class = "container">

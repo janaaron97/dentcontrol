@@ -18,8 +18,32 @@
 	}
 
 	.col-md-6 img{
-		margin: 40px;
+		margin: 20px;
 	}
+	
+	img.triple-a{
+   	width: 50px !important;
+}
+
+img.usaa{
+   	width: 50px;
+}
+
+img.farmers{
+	width: 50px;
+}
+
+img.allstate{
+    width: 80px;
+}
+
+img.nationwide{
+    width: 100px;
+}
+
+.state-farm{
+	width: 110px !important;
+}
 
 
 }

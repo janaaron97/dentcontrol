@@ -9,7 +9,7 @@
 .benefits li{
 	list-style: none;
 	color: #595959;
-	font-size: 12px !important;
+	font-size: 15px !important;
 	margin: 1em 1em;
 	line-height: 1.3em;
 	font-weight: 200;
@@ -30,4 +30,8 @@
 
 .paragraphs .col-md-3{
 	float: right;
+}
+
+a[href="faq"]{
+	text-decoration: none;
 }

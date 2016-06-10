@@ -1,6 +1,6 @@
 .light-gray-read-more{
 	background: #ededed;
-	padding: 100px;
+	padding: 47px;
 	margin-top: 40px;
 	margin-bottom: 10px;
 }
@@ -45,8 +45,8 @@
 .second-light-gray-read-more{
 	margin-top: 0;
 	background: #fff;
-	padding-top: 60px;
-	padding-bottom: 40px;
+	padding: 0;
+	padding-bottom: 47px;
 }
 
 .long-text-logo-background{

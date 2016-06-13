@@ -36,8 +36,8 @@ FOOTER
 		text-align: center;
 	}
 
-	.fa.fa-facebook, .fa.fa-twitter {
-	    width: 10% !important;
+	.footer .fa.fa-facebook, .fa.fa-twitter {
+	    width: 10%;
 
 	}
 
@@ -51,7 +51,7 @@ FOOTER
 		width: 100%;
 	}
 
-	.footer .fa{
+	.footer .fa-envelope, .fa-phone-square, .fa-location-arrow{
 		text-align: center !important;
 		width: 100% !important;
 		padding: 10px;
@@ -81,6 +81,10 @@ FOOTER
 	
 	#site-map{
 		padding-top: 20px;
+	}
+	
+	.footer .col-md-6{
+		text-align: center;
 	}
 
 

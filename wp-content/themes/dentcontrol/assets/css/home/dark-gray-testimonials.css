@@ -1,6 +1,6 @@
 .dark-gray-testimonials{
 	background: #777777 !important;
-	padding: 50px !important;
+	padding: 30px !important;
 }
 
 .dark-gray-testimonials p{
@@ -14,8 +14,8 @@
 .dark-gray-testimonials hr{
 	border-color: #d3cdcd;
 	width: 8%;
-	margin-top: 5px !important;
-	margin-bottom: 30px !important;
+	margin-top: 5px;
+	margin-bottom: 30px;
 }
 
 #more-testimonials{
@@ -24,4 +24,8 @@
 	color: #fff;
 	font-size: 16px;
 
+}
+
+.dark-gray-testimonials i{
+	color: inherit;
 }

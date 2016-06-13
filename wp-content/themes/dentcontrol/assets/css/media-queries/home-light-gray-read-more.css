@@ -6,14 +6,18 @@
 
 	.circle-background-text{
 		line-height: 1.5em;
-		padding: 20px;
+		padding: 0px;
 		margin-bottom: 0;
 
 	
 	}
 	
+	#ethical-and-friendly{
+		line-height: 1.5em;
+	}
+	
 	.long-text-logo-background{
-		padding: 20px;
+		padding: 10px;
 	}
 
 }

@@ -15,13 +15,13 @@
 	</p>
 
 	<center>
-		<a href = "faq">
+		<a href = "/faq">
 			<p class = "read-more gibson-light">what to expect</p>
 		</a>
 		
 		<br>
 		
-		<a href = "faq">
+		<a href = "/faq">
 			<i class = " fa fa-arrow-circle-o-right"></i>
 		</a>
 	</center>

@@ -9,6 +9,6 @@
 		</div>
 	</div>
 
-	<?php include 'questions-section.html' ?>
+	<?php include 'questions-section.php' ?>
 
 </div>

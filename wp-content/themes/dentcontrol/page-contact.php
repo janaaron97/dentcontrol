@@ -4,10 +4,10 @@
 
 
 
-	<?php include 'includes/contact/main-image.html' ?>
+	<?php include 'includes/contact/main-image.php' ?>
 
 
-	<?php include 'includes/contact/main-section.html' ?>
+	<?php include 'includes/contact/main-section.php' ?>
 
 
 	<!--This is the form for requesting a quote -->

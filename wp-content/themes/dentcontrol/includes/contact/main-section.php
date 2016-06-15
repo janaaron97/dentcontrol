@@ -10,11 +10,11 @@
 
 		<div class = "container padding">
 
-			<?php include 'email-and-phone.html'; ?>
+			<?php include 'email-and-phone.php'; ?>
 
-			<?php include 'address.html'; ?>
+			<?php include 'address.php'; ?>
 
-			<?php include 'social-media.html'; ?>
+			<?php include 'social-media.php'; ?>
 
 		</div><!--end of container padding -->
 

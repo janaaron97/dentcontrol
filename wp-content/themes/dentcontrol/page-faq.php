@@ -6,7 +6,7 @@
 <div class = "f">
 
 
-	<?php include 'includes/faq/main-image.html'; ?>
+	<?php include 'includes/faq/main-image.php'; ?>
 
 
 	<?php include 'includes/faq/main-section.php'; ?>

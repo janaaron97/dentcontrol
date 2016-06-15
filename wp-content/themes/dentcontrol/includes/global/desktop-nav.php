@@ -23,7 +23,7 @@
 			<div class = "col-md-4 vertical-center">
 				<div class = "container">
 					<a href="<?php echo home_url(); ?>">
-					<img src = "<?php bloginfo('template_directory'); ?>/assets/images/nav-logo.png" />
+					<img src = "<?php bloginfo('template_directory'); ?>/assets/images/logo-for-site-outlined-notag.svg" />
 					</a>
 
 				</div>

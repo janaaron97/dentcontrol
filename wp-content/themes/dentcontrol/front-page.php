@@ -14,25 +14,25 @@
 
 <!-- These are the brand icons on the home page dent control carries -->
 <div class = "container">
-	<?php include 'includes/home/desktop-brand-icons.html' ?>
-	<?php include 'includes/home/mobile-brand-icons.html' ?>
+	<?php include 'includes/home/desktop-brand-icons.php' ?>
+	<?php include 'includes/home/mobile-brand-icons.php' ?>
 </div>
 
 <!-- This is the light gray jumbotron on the home page, telling the reader "who we are" -->
-	<?php include 'includes/home/light-gray-read-more.html' ?>
+	<?php include 'includes/home/light-gray-read-more.php' ?>
 <div class = "container">
 
 <!-- These are the links to all the other pages, displayed on a car background -->
-	<?php include 'includes/home/links-section-desktop.html' ?>
-	<?php include 'includes/home/links-section-mobile.html' ?>
+	<?php include 'includes/home/links-section-desktop.php' ?>
+	<?php include 'includes/home/links-section-mobile.php' ?>
 
 
 <!-- This is the white jumbotron, directly after the car-background links section -->
-	<?php include 'includes/home/second-light-gray-read-more.html' ?>
+	<?php include 'includes/home/second-light-gray-read-more.php' ?>
 </div>
 
 <!-- This is the jumbotron that takes you to the testimonials page -->
-	<?php include 'includes/home/dark-gray-testimonials.html' ?>
+	<?php include 'includes/home/dark-gray-testimonials.php' ?>
 
 <!--This is the form for requesting a quote -->
 <div class = "container">

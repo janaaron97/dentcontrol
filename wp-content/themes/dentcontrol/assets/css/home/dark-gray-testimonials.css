@@ -7,8 +7,8 @@
 	color: #fff;
 	letter-spacing: 0.05em;
 	font-weight: 200;
-	font-size: 26px;
-
+	font-size: 26px !important;
+	
 }
 
 .dark-gray-testimonials hr{

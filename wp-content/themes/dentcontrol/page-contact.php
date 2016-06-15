@@ -4,7 +4,7 @@
 
 
 
-	<?php include 'includes/contact/main-image.php' ?>
+	<?php include 'includes/global/main-image.php' ?>
 
 
 	<?php include 'includes/contact/main-section.php' ?>
@@ -12,7 +12,7 @@
 
 	<!--This is the form for requesting a quote -->
 	<div class = "background">
-		<?php include 'includes/home/form.php' ?>
+		<?php include 'includes/global/form.php' ?>
 	</div>
 
 

@@ -2,7 +2,7 @@
 
 <div class = "team">
 
-	<?php include 'includes/meet-the-team/main-image.php'; ?>
+	<?php include 'includes/global/main-image.php'; ?>
 
 	<?php include 'includes/meet-the-team/main-section.php'; ?>
 	
@@ -16,8 +16,8 @@
 
 
 <div class = "container">
-	<?php include 'includes/home/links-section-desktop.php' ?>
-	<?php include 'includes/home/links-section-mobile.php' ?>
+	<?php include 'includes/global/links-section-desktop.php' ?>
+	<?php include 'includes/global/links-section-mobile.php' ?>
 </div>
 
 

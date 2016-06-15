@@ -4,7 +4,7 @@
 
 
 
-	<?php include 'includes/testimonials/main-image.php' ?>
+	<?php include 'includes/global/main-image.php' ?>
 
 	<center>
 		<h2 class = "long-text-logo-background">
@@ -24,8 +24,8 @@
 	
 
 	<div class = "container">
-		<?php include 'includes/home/links-section-desktop.php' ?>
-		<?php include 'includes/home/links-section-mobile.php' ?>
+		<?php include 'includes/global/links-section-desktop.php' ?>
+		<?php include 'includes/global/links-section-mobile.php' ?>
 	</div>
 
 	<br>

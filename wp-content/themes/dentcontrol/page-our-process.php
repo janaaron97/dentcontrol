@@ -3,7 +3,7 @@
 <?php get_header(); ?>
 
 <div class = "tp">
-	<?php include 'includes/the-process/main-image.php' ?>
+	<?php include 'includes/global/main-image.php' ?>
 	<div class = "container">
 		<?php include 'includes/the-process/repair-3-steps.php' ?>
 		<div class = "container">
@@ -13,10 +13,10 @@
 </div>
 
 <div class = "container">
-	<?php include 'includes/home/links-section-desktop.php' ?>
-	<?php include 'includes/home/links-section-mobile.php' ?>
-</div>
+	<?php include 'includes/global/links-section-desktop.php' ?>
+	<?php include 'includes/global/links-section-mobile.php' ?>
 <?php include 'includes/the-process/light-gray-read-more.php' ?>
+</div>
 
 
 

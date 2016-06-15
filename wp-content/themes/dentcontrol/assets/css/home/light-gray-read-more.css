@@ -1,4 +1,4 @@
-.light-gray-read-more{
+.jumbotron.light-gray-read-more{
 	background: #ededed;
 	padding: 47px;
 	margin-top: 40px;
@@ -46,7 +46,7 @@
 	margin-top: 0;
 	background: #fff;
 	padding: 0;
-	padding-bottom: 47px;
+	padding-bottom: 47px !important;
 }
 
 .long-text-logo-background{
@@ -58,7 +58,7 @@
 	letter-spacing: 0.2em;
 	color: #144c87;
 	text-transform: uppercase;
-
+	text-align: center;
 }
 
 #light-gray-text{

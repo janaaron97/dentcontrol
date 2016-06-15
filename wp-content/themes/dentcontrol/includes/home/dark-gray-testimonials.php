@@ -5,5 +5,5 @@
 		<hr >
 		<a href = "testimonials"><p id = "more-testimonials">View more testimonials</p></a>
 	</center>
-
+	
 </div>

@@ -23,8 +23,8 @@
 <div class = "container">
 
 <!-- These are the links to all the other pages, displayed on a car background -->
-	<?php include 'includes/home/links-section-desktop.php' ?>
-	<?php include 'includes/home/links-section-mobile.php' ?>
+	<?php include 'includes/global/links-section-desktop.php' ?>
+	<?php include 'includes/global/links-section-mobile.php' ?>
 
 
 <!-- This is the white jumbotron, directly after the car-background links section -->
@@ -36,7 +36,7 @@
 
 <!--This is the form for requesting a quote -->
 <div class = "container">
-	<?php include 'includes/home/form.php' ?>
+	<?php include 'includes/global/form.php' ?>
 </div>
 
 

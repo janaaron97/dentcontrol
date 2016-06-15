@@ -1,4 +1,4 @@
-<div class = "jumbotron light-gray-read-more">
+<div class = "jumbotron second-light-gray-read-more">
 
 
 	<div>

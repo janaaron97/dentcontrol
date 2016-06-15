@@ -26,26 +26,21 @@ Version: 1
 
 
 /* the-process styles */
-@import url("assets/css/the-process/the-process-main-image.css");
 @import url("assets/css/the-process/repair-3-steps.css");
 @import url("assets/css/the-process/the-process-paragraphs.css");
 
 /* testimonials styles */
-@import url("assets/css/testimonials/main-image.css");
 @import url("assets/css/testimonials/testimonial-blocks.css");
 @import url("assets/css/testimonials/links-section.css");
 
 /* contact styles */
-@import url("assets/css/contact/main-image.css");
 @import url("assets/css/contact/main-section.css");
 @import url("assets/css/contact/form.css");
 
 /* faq styles */
-@import url("assets/css/faq/main-image.css");
 @import url("assets/css/faq/main-section.css");
 
 /* meet-the-team styles */
-@import url("assets/css/meet-the-team/main-image.css");
 @import url("assets/css/meet-the-team/main-section.css");
 
 

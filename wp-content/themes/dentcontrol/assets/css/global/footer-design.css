@@ -5,7 +5,7 @@ FOOTER
 #footer{
 	background: #144c87;
 	color: #fff;
-	height: 400px;
+	height: 420px;
 }
 
 .footer .col-md-4 h2{
@@ -59,7 +59,7 @@ FOOTER
 	padding: 0px;
 }
 
-.footer .fa-twitter{
+.footer .fa-yelp{
 	padding-left: 10px;
 }
 

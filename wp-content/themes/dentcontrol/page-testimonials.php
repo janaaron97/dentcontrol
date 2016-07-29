@@ -14,9 +14,6 @@
 
 	<?php include 'includes/testimonials/testimonial-blocks.php' ?>
 
-	<?php include 'includes/testimonials/testimonial-blocks.php' ?>
-
-	<?php include 'includes/testimonials/testimonial-blocks.php' ?>
 
 	<br>
 

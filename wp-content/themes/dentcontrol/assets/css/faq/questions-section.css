@@ -1,0 +1,48 @@
+a[href="#top-faq"] p{
+    color: #444;
+    border-left: 1px solid #e0e0e0;
+    padding: 2px;
+    padding-right: 19px;
+    padding-left: 10px;
+    border-right: 1px solid #e0e0e0;
+    background: #f6f6f6;
+    font-size: 14px !important;
+
+}
+
+
+
+a[href="#top-faq"] p:hover{
+  animation-duration: 0.2s;
+  animation-name: changeColor;
+  animation-fill-mode: forwards;
+}
+
+@keyframes changeColor {
+  from {
+    background: #f6f6f6;
+    color: #444;
+    border-left: 1px solid #e0e0e0;
+    border-right: 1px solid #e0e0e0;
+  }
+
+  to {
+    background: #144c87;
+    color: #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+  }
+}
+
+.f .col-md-4{
+
+    margin-bottom: 20px;
+}
+
+.f .col-md-4 {
+  background: #e7edf3;
+  height: 25em;
+  padding: 25px;
+  margin-top: 15px;
+
+}

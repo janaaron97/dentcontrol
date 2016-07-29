@@ -13,30 +13,28 @@
 			<div class = "col-md-4">
 				<p class = "contact-header">Email & Phone</p>
 				<br>
-				<a href = "tel:2143313324">
-					<p>214.331.3324</p>
+				<a href = "tel:469-569-8633">
+					<p>469.569.8633</p>
 				</a>
 				<br>
-				<a href = "mailto:hey@dentrepair.com">
-					<p>hey@dentcontrol.me</p>
+				<a href = "mailto:info@dentcontrol.com">
+					<p>info@dentcontrol.com</p>
 				</a>
 			</div>
 	
 			<div class = "col-md-4">
 				<p class = "contact-header">Address</p>
 				<br>
-				<a href = "https://goo.gl/U4I5u8"><p>11111 N Nowhere Blvd., <br>
-					Dallas, TX 75240</p></a>
+				<a href = "https://goo.gl/S7iehS"><p>308 Crepe Myrtle <br>Murphy, TX 75094<br></p></a>
 			</div>
 			<div class = "col-md-4">
 				<p class = "contact-header">Social Media</p>
 		
 				<br>
 			
-				<a href = "http://www.twitter.com"><i class = "fa fa-twitter"></i></a>
-				<a href = "http://www.facebook.com"><i class = "fa fa-facebook"></i></a>
-				<a href = "http://www.linkedin.com"><i class = "fa fa-linkedin"></i></a>
-				<a href = "mailto:hey@dentrepair.com"><i class = "fa fa-envelope"></i></a>
+				<a href = "https://www.facebook.com/groups/163861102970/?fref=nf"><i class = "fa fa-facebook"></i></a>
+				<a href = "http://www.yelp.com/biz/dent-control-murphy"><i class = "fa fa-yelp"></i></a>
+				<a href = "mailto:info@dentcontrol.com"><i class = "fa fa-envelope"></i></a>
 			</div>
 	
 		</div><!--end of container padding -->

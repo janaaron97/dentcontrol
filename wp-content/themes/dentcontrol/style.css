@@ -26,8 +26,8 @@ Version: 1
 
 
 /* the-process styles */
-@import url("assets/css/the-process/repair-3-steps.css");
 @import url("assets/css/the-process/the-process-paragraphs.css");
+@import url("assets/css/the-process/dent-control-way.css");
 
 /* testimonials styles */
 @import url("assets/css/testimonials/testimonial-blocks.css");
@@ -39,6 +39,23 @@ Version: 1
 
 /* faq styles */
 @import url("assets/css/faq/main-section.css");
+@import url("assets/css/faq/questions-section.css");
+
+/* coupons */
+@import url("assets/css/coupons/main-section.css");
+
+/* our work */
+@import url("assets/css/our-work/intro-section.css");
+
+
+/*services*/
+@import url("assets/css/services/three-steps.css");
+@import url("assets/css/services/step-one.css");
+@import url("assets/css/services/intro-section.css");
+@import url("assets/css/services/repair-process.css");
+@import url("assets/css/services/dings.css");
+@import url("assets/css/services/pdr-training.css");
+@import url("assets/css/services/dent-control-advantage.css");
 
 /* meet-the-team styles */
 @import url("assets/css/meet-the-team/main-section.css");
@@ -61,6 +78,7 @@ Version: 1
 @import url("assets/css/media-queries/testimonials-testimonial-blocks.css");
 @import url("assets/css/media-queries/testimonials-link-section.css");
 @import url("assets/css/media-queries/interior-page-main-image.css");
+@import url("assets/css/media-queries/coupons.css");
 
 
 

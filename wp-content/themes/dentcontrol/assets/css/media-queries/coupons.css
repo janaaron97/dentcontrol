@@ -1,0 +1,36 @@
+@media screen and (max-width: 900px) {
+    .coupon-image{
+        width: 30%;
+       
+    }
+    
+    .coupon{
+         margin: 0;
+         margin-top: 20px;
+         
+    }
+    
+    .amount-off{
+        font-size: 40px !important;
+    }
+    
+    .what-for{
+        font-size: 26px;
+    }
+    
+    .coupon-caption{
+        font-size: 11px !important;
+    }
+
+    
+}
+
+@media screen and (max-width: 400px) {
+    .amount-off{
+        font-size: 20px !important;
+    }
+    
+    .what-for{
+        font-size: 16px;
+    }
+}

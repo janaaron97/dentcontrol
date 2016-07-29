@@ -12,13 +12,13 @@ jumbotron of the links-section -->
 
 			<hr class = "hr-small"/>
 
-			<a href = "#">
-				<h1 class = "center">MEET THE TEAM</h1>
+			<a href = "services">
+				<h1 class = "center">SERVICES</h1>
 			</a>
 
 			<hr class = "hr-small"/>
 
-			<a href = "#">
+			<a href = "faq">
 				<h1 class = "center">FAQ</h1>
 			</a>
 		</div>

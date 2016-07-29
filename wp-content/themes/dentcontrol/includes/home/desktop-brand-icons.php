@@ -1,6 +1,6 @@
 <div class = "clearfix">
 	<div class = "col-md-12">
-		<center><p class = "gibson-light" id = "proud-partners">PROUD PARTNERS WITH ALL INSURANCE CARRIERS, INCLUDING:</p></center>
+		<center><p class = "gibson-light" id = "proud-partners">WE ARE PROUD TO WORK WITH ALL INSURANCE CARRIERS, INCLUDING:</p></center>
 	</div>
 
 

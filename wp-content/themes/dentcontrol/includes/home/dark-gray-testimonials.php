@@ -1,7 +1,7 @@
 <div class = "jumbotron dark-gray-testimonials">
 
 	<center>
-		<p class = "gibson-light">“They had to convince me it was really my car!”</p>
+		<p class = "gibson-light">"The greatest customer service I have ever had!"</p>
 		<hr >
 		<a href = "testimonials"><p id = "more-testimonials">View more testimonials</p></a>
 	</center>

@@ -5,10 +5,8 @@
 <div class = "tp">
 	<?php include 'includes/global/main-image.php' ?>
 	<div class = "container">
-		<?php include 'includes/the-process/repair-3-steps.php' ?>
-		<div class = "container">
-			<?php include 'includes/the-process/the-process-paragraphs.php' ?>
-		</div>
+		<?php include 'includes/the-process/the-process-paragraphs.php' ?>
+		<?php include 'includes/the-process/dent-control-way.php'; ?>
 	</div>
 </div>
 

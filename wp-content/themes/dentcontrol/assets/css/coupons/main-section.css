@@ -1,0 +1,28 @@
+.amount-off{
+    font-size: 60px !important;
+}
+
+.what-for{
+    font-size:30px;
+}
+
+.coupon-caption{
+    font-size: 15px !important;
+    color: #333;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    
+}
+
+.coupon-image{
+    position: absolute;
+    right: 0;
+    top: 20px;
+}
+
+.coupon{
+    padding: 20px;
+    margin: 60px;
+    position: relative;
+}
+

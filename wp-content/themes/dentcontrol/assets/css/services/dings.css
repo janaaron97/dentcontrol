@@ -1,0 +1,20 @@
+.dings {
+    background: #777777 !important;
+    padding: 20px;
+    color: #fff;
+}
+
+.dings p{
+    padding: 30px;
+    padding-bottom: 0px;
+}
+
+#ding-email {
+    padding: 0;
+    padding-left: 10px;
+}
+
+.dings hr{
+    width: 30%;
+    border: 1px solid #fff;
+}

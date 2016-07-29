@@ -1,0 +1,25 @@
+.dent-control-way h3 {
+  text-align: left; }
+
+.tp .step .number {
+  font-size: 20px !important;
+  color: #595959 !important;
+  text-align: right; }
+
+.tp-step {
+  padding: 0 !important;
+  margin-top: 10px !important; }
+  .tp-step .tp-header {
+    color: #595959 !important;
+    font-size: 18px !important; }
+
+@media screen and (max-width: 990px) {
+  .tp .step .number {
+    text-align: center;
+    width: 100%;
+    margin: 0; }
+
+  .tp .step .tp-header {
+    text-align: center; } }
+
+/*# sourceMappingURL=dent-control-way.css.map */

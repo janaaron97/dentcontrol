@@ -51,4 +51,35 @@ function register_team_post_type()
 }
 
 */
+
+
+add_action( 'init', 'create_post_type' );
+function create_post_type() {
+  register_post_type( 'acme_product',
+    array(
+      'labels' => array(
+        'name' => __( 'Cars' ),
+        'singular_name' => __( 'Car' )
+      ),
+      'public' => true,
+      'has_archive' => true,
+    )
+  );
+}
+
+
+
+  register_post_type( 'coupon_product',
+    array(
+      'labels' => array(
+        'name' => __( 'Coupons' ),
+        'singular_name' => __( 'Coupon' )
+      ),
+      'public' => true,
+      'has_archive' => true,
+    )
+  );
+
+
+
 ?>

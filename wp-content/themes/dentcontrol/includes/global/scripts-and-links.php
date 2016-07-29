@@ -5,7 +5,7 @@
 <!-- Font Awesome -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 
-
+<link rel="shortcut icon" href="<?php bloginfo('template_directory'); ?>/assets/images/logo.png" />
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 <script src="//use.typekit.net/fqj5nyl.js"></script>
 <script>try{Typekit.load();}catch(e){}</script>

@@ -8,10 +8,10 @@
 		</div>
 	</a>
 
-	<a href = "meet-the-team">
+	<a href = "services">
 		<div class = "col-md-4 bordered center vertical-center">
 			<div class = "container">
-				<h1 class = "link-text">Meet<br> The Team</h1>
+				<h1 class = "link-text">Services</h1>
 			</div>
 		</div>
 	</a>

@@ -23,7 +23,7 @@
 			<div class = "col-md-4 vertical-center">
 				<div class = "container">
 					<a href="<?php echo home_url(); ?>">
-					<img src = "<?php bloginfo('template_directory'); ?>/assets/images/logo-for-site-outlined-notag.svg" />
+					<img src = "<?php bloginfo('template_directory'); ?>/assets/images/logo.png" />
 					</a>
 
 				</div>
@@ -31,15 +31,15 @@
 
 			<div class = "col-md-4 vertical-center" id = "contact-nav">
 				<div class = "container align-right">
-					<a href = "tel:1111111111">
+					<a href = "tel:469-569-8633">
 						<p id = "call-today">CALL TODAY</p>
 					</a>
 
-					<a href = "tel:1111111111">
+					<a href = "tel:469-569-8633">
 						<i class="fa fa-phone"></i>
 					</a>
 
-					<a href = "mailto:hey@dentrepair.com">
+					<a href = "mailto:info@dentcontrol.com">
 						<i class="fa fa-envelope"></i>
 					</a>
 				</div>

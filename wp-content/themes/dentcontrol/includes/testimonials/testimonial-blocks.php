@@ -8,10 +8,34 @@
 				<center>
 					
 					<br>
-					<p class = "name">Lynda Brassbow</p>
+					<p class = "name">JoAnna Z</p>
 
 					<p class = "reviewer-text">
-						"Through the whole process, I felt fully informed and aware of how things were going. For a fast, detailed and quality repair, Dent Control is the best out there."
+						"I am nothing but completely happy with the professional way in which we were treated and the complete job done before I expected it to be done. Thank you for"
+					</p>
+				</center>
+			</div><!-- end of col-md-4 -->
+			
+			<div class = "col-md-4 block">
+				<center>
+					
+					<br>
+					<p class = "name">Jennifer D</p>
+
+					<p class = "reviewer-text">
+						"Thank you so much for your excellent customer service. I will be telling all of my friends to bring their car to you."
+					</p>
+				</center>
+			</div><!-- end of col-md-4 -->
+			
+			<div class = "col-md-4 block">
+				<center>
+					
+					<br>
+					<p class = "name">Nancy S</p>
+
+					<p class = "reviewer-text">
+						"I just wanted to thank all of you for the professional manner in which you completed the repairs to my hail damaged car. My car has never looked this good."
 					</p>
 				</center>
 			</div><!-- end of col-md-4 -->
@@ -20,25 +44,39 @@
 				<center>
 					
 					<br>
-					<p class = "name">John Stainrew</p>
+					<p class = "name">Oscar G</p>
 
 					<p class = "reviewer-text">
-						"I really was blown away at the detail-oriented approach they took. Even though the whole process only took three days, the work done feels like it should have taken much longer. Thanks guys!"
+						"The greatest customer service I have ever had!"
 					</p>
 				</center>
 			</div><!-- end of col-md-4 -->
 
 			<div class = "col-md-4 block">
 				<center>
-					
 					<br>
-					<p class = "name">Bill Gates</p>
+					<p class = "name">Gary E</p>
 
 					<p class = "reviewer-text">
-						"The service was fantastic! I appreciated the fast repair, as well as the friendly progress updates. These guys are great people."
+						"Great customer service. Awesome job on my car!"
 					</p>
 				</center>
 			</div><!-- end of col-md-4 -->
+			
+			<div class = "col-md-4 block">
+				<center>
+					
+					<br>
+					<p class = "name">Karen W</p><br>
+
+					<p class = "reviewer-text">
+						"These guys are the BEST!"
+					</p>
+				</center>
+			</div><!-- end of col-md-4 -->
+			
+			
+
 			
 		</div><!-- end of container -->
 	</div><!-- end of jumbotron -->

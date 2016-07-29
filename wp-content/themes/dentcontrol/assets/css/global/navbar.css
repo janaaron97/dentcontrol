@@ -100,3 +100,17 @@ p.navbar-brand.left.toggle-button {
 	outline: none;
 	text-decoration: none;
 }
+
+.navbar-nav>li>a{
+    text-shadow: none;
+}
+
+.nav>li>a:focus, .nav>li>a:hover{
+    background-color: transparent !important;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background-color: none !important;
+    
+}

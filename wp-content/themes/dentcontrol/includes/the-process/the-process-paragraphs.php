@@ -4,10 +4,10 @@
 		</center>
 		<div class = "container">
 
-			<p class = "tp-text"> 
+			<p class = "tp-text" id = "pdr-explained"> 
 				Formed in 2003, Dent Control was built by car people who simply believe in doing it right. Cars are our passion. Our commitment to providing unmatched quality and stellar customer service at a fair price is unmatched.
 
-				We believe that service is missing in the paintless dent repair industry. Because Dent Control is an employee owned company, we go the extra mile for our customers.  Free pick up and delivery service, and clean car delivery are just a few of the things we do for every customer.
+				We believe that service is missing in the <a href = "#pdr-tag">paintless dent repair</a> industry. Because Dent Control is an employee owned company, we go the extra mile for our customers.  Free pick up and delivery service, and clean car delivery are just a few of the things we do for every customer.
 				Stop by one of our convenient locations and experience the Dent Control difference.
 
 			</p>
@@ -18,7 +18,7 @@
 
 
 
-	<div class = "col-md-12">
+	<div class = "col-md-12" id = "pdr-tag">
 		<h2 class = "tp-header center">PAINTLESS DENT REPAIR</h2>
 		<div class = "col-md-9">
 
@@ -43,7 +43,7 @@
 			   	<li>Quicker turn around time</li>
 				<li>Less expensive than traditional Paint and Body</li>
 				<li>Perfect color match to existing</li>
-				<li>No toxic paint fumes into the ozone</li>	
+				<li id = "process-target">No toxic paint fumes into the ozone</li>	
 
 			</ul>
 		</div>
